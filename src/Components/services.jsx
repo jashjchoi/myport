@@ -14,7 +14,7 @@ export default function Services() {
                 <SectionTitle
                     title="SKILLS"
                     subTitle="What I Am Great At"
-                    desc="I am well-versed in all the software programs that you require as you will see on my attached resume. The security of a position with a firm of your success and stability would not only be in my best practical interest"
+                    desc="I am well-versed in all the software programs that you require as you will see on my attached resume."
                 />
                  <div className="resume-button">
                     <a href="https://drive.google.com/file/d/14cytMU7nvnuWTMI5AXLXV7gfojVdekbo/view" target="blank">
@@ -58,7 +58,7 @@ export default function Services() {
                             </div>
                             <div className="skill-project">
                                 <h5 className="mb-3">Web Framework</h5>
-                                <p>Node.js | React | Express</p>
+                                <p> Node.js | ReactJS </p>
                                 <p> Heroku </p>
                             </div>
                         </div>
