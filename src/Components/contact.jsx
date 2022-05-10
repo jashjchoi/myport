@@ -11,7 +11,7 @@ export default function Contact() {
         <div className="contact-area section-ptb" id="contact">
             <div className="container">
                 <SectionTitle
-                    title="CONTACT US"
+                    title="CONTACT"
                     subTitle="Ways To Contact Me"
                     desc="Eager to obtain a position that will expand my learning and
                     build upon my developer skills. Should you need any further information, please do not hesitate to contact me."

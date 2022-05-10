@@ -137,7 +137,7 @@ export default function Portfolios(props) {
                                                             : null}
                                                         <div className="blog-small-description pt-20 pb-20">
                                                             <Link to={`/project_details/${posts.id}`}>
-                                                                <h2>{posts.title}</h2>
+                                                                <h2 className="small_title">{posts.title}</h2>
                                                             </Link>
                                                             <p>{posts.smallDesc}</p>
                                                         </div>

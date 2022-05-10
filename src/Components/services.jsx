@@ -14,7 +14,7 @@ export default function Services() {
                 <SectionTitle
                     title="SKILLS"
                     subTitle="What I Am Great At"
-                    desc="I am well-versed in all the software programs that you require as you will see on my attached resume."
+                    desc="I have an in-depth understanding of coding languages and design aspects to create a well-balanced website. "
                 />
                  <div className="resume-button">
                     <a href="https://drive.google.com/file/d/14cytMU7nvnuWTMI5AXLXV7gfojVdekbo/view" target="blank">
@@ -69,7 +69,7 @@ export default function Services() {
                                 <img src={servicIcon_06} alt="design" />
                             </div>
                             <div className="skill-project">
-                                <h5 className="mb-3">Branding</h5>
+                                <h5 className="mb-3">Others</h5>
                                 <p>Adobe Photoshop</p>
                                 <p>Adobe Illustrator</p>
                             </div>

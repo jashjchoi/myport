@@ -28,20 +28,24 @@
             "pic2":"https://i.imgur.com/1qtOhDb.png",
             "featured": true,
             "smallDesc": "Promotional website for small business clients. Created and oversave wireframe designs from client requests.",
-            "blogText": "Doc J's Heat and Air is a startup company whose co-owners have more than 30 years of experience in the industry. They needed help with branding and website design. By working for Websites4good, I delivered a new mobile-ready website design that reflects the experience and personality of Deborah and Julius by Wordpress"
+            "blogText": "Doc J's Heat and Air is a startup company whose co-owners have more than 30 years of experience in the industry. They needed help with branding and website design. By working for Websites4good,I delivered a new mobile-ready website design that reflects the experience and personality of Deborah and Julius by Wordpress",
+            "link01": "https://docjsheatandair.com/"
         },
         {
             "id": 3,
             "blogCategory": "Featured",
-            "title": "Get Schooled Javascript",
-            "slug": "Get Schooled Javascript",
+            "title": "Oklahoma Rare",
+            "slug": "Oklahoma Rare",
             "author": "Jasmine",
-            "blogImage": "https://i.imgur.com/FEjKhY9.jpg",
-            "pic1": "https://i.imgur.com/FEjKhY9.jpg",
-            "pic2":"https://i.imgur.com/iVYPdLM.png",
-            "smallDesc": "Mockup front-end by JavaScript & Bootstrap based on Figma design file",
-            "blogText": "Creating the dynamic, responsive pages with Javascript, JQuery, and Bootstrap.",
-            "link02": "https://github.com/jashjchoi/holberton-smiling-school-javascript"
+            "blogImage": "https://i.imgur.com/xW9YUcq.png",
+            "pic1": "https://i.imgur.com/H85blPL.png",
+            "pic2":"https://i.imgur.com/YwaQb92.png",
+            "smallDesc": "Volunteer project to help people in the OK Rare community manage day-to-day tasks.",
+            "blogText": "Oklahoma Rare is a non-profit advocacy group started by two parents of children with rare diseases. The goal of the organization is to promote community within the rare community and their families.",
+            "blogText02": "In order to support OK Rare, this application is created by React and Firebase to help people in the Rare community manage day-to-day tasks. The application also includes information about the Oklahoma Rare organization, and allows for users to login and view their private tasks. ",
+            "blogText03": "Utilized Bootstrap and Material UI for user-friendly and mobile-optimized designs.",
+            "link01": "https://okrare2022.web.app",
+            "link02": "https://github.com/jashjchoi/ok_react_rare"
 
         },
         {
@@ -60,13 +64,15 @@
         {
             "id": 5,
             "blogCategory": "Featured",
-            "title": "AirBnB clone",
-            "slug": "HBNB - The Console",
+            "title": "Get Schooled Javascript",
+            "slug": "Get Schooled Javascript",
             "author": "Jasmine",
-            "blogImage": "data:image/png;base64,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",
-            "smallDesc": "This project contains the initial stage of a student project to build a clone of the AirBnB website.",
-            "blogText": "Implemented a backend interface, or console, to manage program data. Console commands allow the user to create, update, and destroy objects, as well as manage file storage. Using a system of JSON serialization/deserialization, storage is persistent between sessions.",
-            "link02": "https://github.com/jashjchoi/AirBnB_clone_v2"
+            "blogImage": "https://i.imgur.com/FEjKhY9.jpg",
+            "pic1": "https://i.imgur.com/FEjKhY9.jpg",
+            "pic2":"https://i.imgur.com/iVYPdLM.png",
+            "smallDesc": "Mockup front-end by JavaScript & Bootstrap based on Figma design file",
+            "blogText": "Creating the dynamic, responsive pages with Javascript, JQuery, and Bootstrap.",
+            "link02": "https://github.com/jashjchoi/holberton-smiling-school-javascript"
         },
         {
             "id": 6,
@@ -76,9 +82,7 @@
             "author": "Jasmine",
             "blogImage": "https://drive.google.com/uc?export=view&id=1KoYrb0kvCMbxBYrg0KFYhw-B5ElROz0W",
             "pic1": "https://drive.google.com/uc?export=view&id=1KoYrb0kvCMbxBYrg0KFYhw-B5ElROz0W",
-            "pic2": "https://drive.google.com/uc?export=view&id=11Sfa-GDzUZF5EOnJqlS9-D7DCR2K1-8n",
-            "pic3": "https://drive.google.com/uc?export=view&id=1GK6p8X4fiXh5U5bEQ2IMKMLg2_PGyqxb",
-            "pic4": "https://drive.google.com/uc?export=view&id=19fi8qzX6ohKk7eAOMWW1zAuz9fM_WhZg",
+            "pic2": "https://drive.google.com/uc?export=view&id=18waIl32cLAVSItRIcQzmDe2RoXyMWi4k",
             "smallDesc": "Designed slides and logo to introduce the web application project Tulsa Maps",
             "blogText": ""
         },
