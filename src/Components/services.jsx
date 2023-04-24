@@ -17,7 +17,7 @@ export default function Services() {
                     desc="I have an in-depth understanding of coding languages and design aspects to create a well-balanced website. "
                 />
                  <div className="resume-button">
-                    <a href="https://drive.google.com/file/d/1WGqv2iE12v3_zV8nVAmWrdonj3p6WK_k/view?usp=sharing" target="blank">
+                    <a href="https://drive.google.com/file/d/1FzqDFAUwAme5BR6bn23D_IRi8G6P-N-y/view?usp=sharing" target="blank">
                         <div className="btn-animation mr-btn" smooth={true} duration={2000} activeClass="active" spy={false}
                                                     offset={5}>My Resume &nbsp; <i><FaLongArrowAltRight /></i>
                         </div>
