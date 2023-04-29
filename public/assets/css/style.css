@@ -243,6 +243,7 @@ p {
 #services {
   padding-right: 50px;
   padding-left: 50px;
+  border-radius: 4px;
 
 }
 .section-ptb {
@@ -525,6 +526,7 @@ p {
   height: 260px;
   padding: auto;
   margin:auto;
+  border-radius: 4px;
 }
 .project-card img {
   width: 80%;
@@ -601,17 +603,6 @@ p {
   outline: none;
 }
 
-.pofo-line {
-    background: #d6d6d6;
-    height: 2px;
-    position: absolute;
-    top: 55%;
-    width: 75%;
-    z-index: -1;
-    margin: 0 auto;
-    text-align: center;
-}
-
 .portfolio-thumb img {
   max-width: 100%;
   height: auto;
@@ -678,6 +669,7 @@ p {
 .blog-img,
 .blog-small-img{
   overflow: hidden;
+  border-radius: 4px;
 }
 
 .blog-img img {
@@ -819,6 +811,7 @@ p {
   background: #1C2541;
   height: 60px;
   line-height: 60px;
+  border-radius: 4px;
 }
 .counter-item p {
   margin-bottom: 0;
@@ -1048,6 +1041,8 @@ p {
 	text-align: center;
 	display: block;
 	margin: 40px auto;
+  border-radius: 4px;
+
 }
 
 .email-input .ct-btn:hover {
@@ -1300,6 +1295,10 @@ p {
   .service-row .col-md-3 {
     padding-right: 0;
     padding-left: 0;
+  }
+
+  .service-icon svg:hover {
+    fill: #6FFFE9;
   }
 
   .project-card .icon img {

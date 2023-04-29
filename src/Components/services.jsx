@@ -1,11 +1,8 @@
 import React from 'react';
-import servicIcon_01 from "../assets/images/icons/pen.png";
-import servicIcon_03 from "../assets/images/icons/search.png";
-import servicIcon_05 from "../assets/images/icons/code-white.png";
-import servicIcon_06 from "../assets/images/icons/marketing-white.png";
+
 import SectionTitle from "./section_title";
 import { 
-FaLongArrowAltRight,
+FaLongArrowAltRight,FaRegWindowMaximize, FaCode, FaPen, FaRegImages
  } from "react-icons/fa";
 export default function Services() {
     return (
@@ -29,11 +26,11 @@ export default function Services() {
                     <div className="col-md-3 col-sm-6 mb-4 mb-md-0">
                         <div className="project-card text-center bgp">
                             <div className="icon mb-30">
-                                <img src={servicIcon_05} alt="design" />
+                                <i class="service-icon"><FaCode size={50}/></i>
                             </div>
                             <div className="skill-project">
                                 <h5 className="mb-3">Web Development</h5>
-                                <p> CSS | HTML | SCSS </p>
+                                <p> CSS | HTML</p>
                                 <p> JavaScript </p>
                             </div>
                         </div>
@@ -41,12 +38,12 @@ export default function Services() {
                     <div className="col-md-3 col-sm-6 mb-4 mb-md-0">
                         <div className="project-card text-center bgp">
                             <div className="icon mb-30">
-                                <img src={servicIcon_01} alt="design" />
+                            <i class="service-icon"><FaPen size={50}/></i>
                             </div>
                             <div className="skill-project">
                                 <h5 className="mb-3">Web Design</h5>
                                 <p> Wordpress | Figma </p>
-                                <p> Bootstrap</p>
+                                <p> Bootstrap | Material UI</p>
 
                             </div>
                         </div>
@@ -54,24 +51,24 @@ export default function Services() {
                     <div className="col-md-3 col-sm-6 mb-4 mb-md-0">
                         <div className="project-card text-center bgp">
                             <div className="icon mb-30">
-                                <img src={servicIcon_03} alt="design" />
+                                <i class="service-icon"><FaRegWindowMaximize size={50}/></i>
                             </div>
                             <div className="skill-project">
-                                <h5 className="mb-3">Web Framework</h5>
-                                <p> Node.js | ReactJS </p>
-                                <p> Heroku </p>
+                                <h5 className="mb-3">Framework/DB</h5>
+                                <p> Node.js | React </p>
+                                <p> MongoDB </p>
                             </div>
                         </div>
                     </div>
                     <div className="col-md-3 col-sm-6 mb-4 mb-md-0">
                         <div className="project-card text-center bgp">
                             <div className="icon mb-30">
-                                <img src={servicIcon_06} alt="design" />
+                                <i class="service-icon"><FaRegImages size={50}/></i>
                             </div>
                             <div className="skill-project">
                                 <h5 className="mb-3">Others</h5>
-                                <p>Adobe Photoshop</p>
-                                <p>Adobe Illustrator</p>
+                                <p>Jira/Confluence</p>
+                                <p>Adobe Creative Suite</p>
                             </div>
                         </div>
                     </div>
