@@ -11,7 +11,6 @@ export default function Services() {
                 <SectionTitle
                     title="SKILLS"
                     subTitle="What I Am Great At"
-                    desc="I have an in-depth understanding of coding languages and design aspects to create a well-balanced website. "
                 />
                  <div className="resume-button">
                     <a href="https://drive.google.com/file/d/1FzqDFAUwAme5BR6bn23D_IRi8G6P-N-y/view?usp=sharing" target="blank">

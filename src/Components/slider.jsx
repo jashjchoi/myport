@@ -56,7 +56,7 @@ export default function slider() {
                                     <div className="col-xl-3 col-lg-3 col-md-3 col-sm-4 col-5">
                                         <div className="slider-left">
                                             <div className="name">
-                                                <h1>Jasmine <br /> Choi<span className="pc">.</span></h1>
+                                                <h1>Jasmine <br /> Choi<span className="pc"></span></h1>
                                             </div>
                                             <div className="dash"></div>
                                             <div className="social-links mb-40">
@@ -88,7 +88,7 @@ export default function slider() {
                                                 <h3 className="section-name pc">INTRODUCTION</h3>
                                                 <h2>Web <br /> Developer</h2>
                                                 <p id="introduction">
-                                                    Highly motivated, self-starting web developer seeking to launch career building web applications and services.</p>
+                                                    Highly motivated, self-starting web developer with a strong dedication to delivering high-quality projects. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.</p>
                                             </div>
                                             <div className="intro-button">
                                                 <Link
