@@ -5,8 +5,6 @@ import SinglePortfolio from "../SingleFeatures/SinglePortfolio";
 import portfolioImg_01 from "../assets/images/portfolio/1.png";
 import portfolioImg_02 from "../assets/images/portfolio/2.png";
 import portfolioImg_03 from "../assets/images/portfolio/3.png";
-import portfolioImg_04 from "../assets/images/portfolio/4.png";
-import portfolioImg_06 from "../assets/images/portfolio/6.jpg";
 import { SRLWrapper } from "simple-react-lightbox";
 import { useGlobalEvent } from 'beautiful-react-hooks'; 
 import SectionTitle from "./section_title";
