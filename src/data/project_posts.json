@@ -100,7 +100,7 @@
         },
         {
             "id": 8,
-            "blogCategory": "Fashion",
+            "blogCategory": "Featured",
             "title": "Curds and Whey Gourment Menu",
             "slug": "memories-from-last-summer",
             "author": "Jasmine",
@@ -109,6 +109,20 @@
             "pic2": "https://drive.google.com/uc?export=view&id=1Vg-_IMfxkK10NE6Npg-lfZM9afthVuMA",
             "smallDesc": "Designed Menu board images for Curds and Whey Gourment",
             "blogText": ""
+        },
+        {
+            "id": 9,
+            "blogCategory": "Featured",
+            "title": "APIDA TULSA",
+            "slug": "Redesigned website and logo to promote APIDA TULSA",
+            "author": "Jasmine",
+            "blogImage": "https://tarettis.sirv.com/Images/blog-5.jpg",
+            "pic1": "https://drive.google.com/uc?export=view&id=1xg1rX9VysUF7kcEFGyCPvs96b-C1a3Uc",
+            "pic2": "https://drive.google.com/uc?export=view&id=1R_CXLYsHs7MCTaSypnB9LECMukepHQQj",
+            "smallDesc": "Redesigned the website and logo to promote APIDA TULSA by Figma",
+            "blogText02": "APIDA (Asian Pacific Islander Desi American) is a non-profit group dedicated to fostering a sense of community and belonging among Asian Americans in Tulsa. The group has been active on the social media and volunteering. ",
+            "blogText03": "The group currently has Google site with simple and basic layout pages. Utilized my design skills by Figma to improve user experience that can significantly increase interactivity. Click the web icon below to see check out the Figma file.",
+            "link01": "https://www.figma.com/file/laOsZF5VC3XVY2QCgmbMc6/APIDA?type=design&node-id=1%3A3&t=4BbTliXIpLYZ31DG-1"
         }
     ]
 }
